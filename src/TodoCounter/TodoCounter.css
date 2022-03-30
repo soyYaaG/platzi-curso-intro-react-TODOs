@@ -1,0 +1,7 @@
+.soyYaaG {
+    @apply text-5xl text-center pt-8 font-bold text-slate-700 drop-shadow-lg;
+}
+
+.TodoCounter {
+    @apply text-2xl text-center py-9 text-sky-700 font-bold drop-shadow-lg;
+}

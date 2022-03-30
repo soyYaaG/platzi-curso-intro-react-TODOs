@@ -1,0 +1,5 @@
+.CreateTodoButton {
+    @apply bg-sky-800 text-white text-4xl px-4 py-1 rounded-full shadow-xl absolute bottom-10 right-10 
+            h-20 w-20 md:transition-all md:rotate-0 md:duration-200 md:ease-in-out hover:rotate-180 z-50
+            hover:shadow-none hover:bg-sky-700;
+}
