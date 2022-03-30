@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/platzi-curso-intro-react-TODOs/static/css/main.dad8a42b.css",
+    "main.js": "/platzi-curso-intro-react-TODOs/static/js/main.6c49e7a7.js",
+    "static/media/error.svg": "/platzi-curso-intro-react-TODOs/static/media/error.37691acacab916fad33d9182ed6d098b.svg",
+    "static/media/no_data.svg": "/platzi-curso-intro-react-TODOs/static/media/no_data.dc9cb5449895067b2632ed0d9643e979.svg",
+    "index.html": "/platzi-curso-intro-react-TODOs/index.html",
+    "main.dad8a42b.css.map": "/platzi-curso-intro-react-TODOs/static/css/main.dad8a42b.css.map",
+    "main.6c49e7a7.js.map": "/platzi-curso-intro-react-TODOs/static/js/main.6c49e7a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dad8a42b.css",
+    "static/js/main.6c49e7a7.js"
+  ]
+}
